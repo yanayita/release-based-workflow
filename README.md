@@ -5,7 +5,7 @@ mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
 
-Playable Version: 
+Playable Version test: 
 https://pages.github.com/
 
 Bit.ly link for mobile: 
